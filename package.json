@@ -1,0 +1,25 @@
+{
+  "name": "tree-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiancook/node-tree-cache.git"
+  },
+  "author": "Fabian Cook <fabianccook@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fabiancook/node-tree-cache/issues"
+  },
+  "homepage": "https://github.com/fabiancook/node-tree-cache#readme",
+  "dependencies": {
+    "cacheman": "^2.0.5",
+    "cacheman-memory": "^1.0.2",
+    "node-uuid": "^1.4.7",
+    "q": "^1.4.1"
+  }
+}
